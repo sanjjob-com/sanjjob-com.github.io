@@ -840,7 +840,7 @@ mark {
 	color: #353535;
 }
 
-.contact a {
+.contact a, .card .link {
 	color: dodgerblue;
 	font-weight: bold;
 }
