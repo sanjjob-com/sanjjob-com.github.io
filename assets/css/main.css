@@ -831,16 +831,17 @@ mark {
 }
 
 .contact {
-	background-color: #d6f5ffb0;
+	font-size: x-large;
+	background-color: red;
 	display: inline-block;
 	padding: 5px 15px;
 	margin-top: 10vh;
 	line-height: 2em;
 	border-radius: 10px;
-	color: #353535;
+	border: solid red 3px;
+	color: white;
 }
 
 .contact a, .card .link {
-	color: dodgerblue;
 	font-weight: bold;
 }
